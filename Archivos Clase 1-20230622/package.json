@@ -1,0 +1,15 @@
+{
+  "name": "archivos-clase-1-20230622",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Actividad-1-Javascipt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
